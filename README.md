@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**leticiareginajf/leticiareginajf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Olá, sou  surda Letícia Honório.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">Estou em busca de emprego para conseguir o tal sonhado: Front-End...</p>
+
+<div style="color: red" align="center">Formada em Sistemas de Informação - 2017 <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture></div>
+<br>
+
+<p>Amo tomar <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="18" height="18">
+</picture>, enquanto aprendo e estudo as novas tecnologias, e os códigos...</p>
+
+<br>
+
+<div align="center">
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
+</picture>
+
+Linguagens de Programação:
+
+
+</div>
+
+
+
+
